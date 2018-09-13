@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp">
+
+        <TextView
+            android:id="@+id/ip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#555"
+            tools:text="192.168.1.1" />
+
+        <TextView
+            android:id="@+id/macAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#777"
+            android:textSize="12sp"
+            tools:text="90;80:22:00" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#aaa"
+            android:textSize="12sp"
+            tools:text="aaaaaa" />
+
+        <TextView
+            android:id="@+id/manufacturer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#aaa"
+            android:textSize="12sp"
+            tools:text="aaaaaa" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:layout_below="@id/content"
+        android:background="#eee" />
+</RelativeLayout>

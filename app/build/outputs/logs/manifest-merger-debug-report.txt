@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befa65f4bf96210800b80d1a3c91f0c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/313ff08ad09103528e01b4359b8a1435/AndroidManifest.xml:17:1-22:12
+MERGED from [:adapter-recyclerview-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/adapter-recyclerview-release.aar/c1dfeb14b244d52cb4c0ba6be964e3af/AndroidManifest.xml:2:1-17:12
+MERGED from [:debug-1.2.0:] /Users/hero/.gradle/caches/transforms-1/files-1.1/debug-1.2.0.aar/65d8a0bb98f78d29fe95068c69190801/AndroidManifest.xml:2:1-13:12
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/162d700c8036cf717b570a001ace3bad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e8c78b11165eb87e6d27a2547a3454b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a70426801fcc3b5349f35cb505f87dcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9a5c588c43dc515ce430d9b5bd320810/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610d88bf427133e7920118019b8bec78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bca480d62660d81f7cbd01eb17768c7f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/93d23aaa518032e1593bc034179b13a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ba76afe35f3002d4d9a96fd9a0615310/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13cb824b4193630cb23fd92017bf74a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec0d9f92d1448ea51222c78e2e14501e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:5:5-76
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:12:5-76
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:11:5-79
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:11:5-27:19
+MERGED from [:adapter-recyclerview-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/adapter-recyclerview-release.aar/c1dfeb14b244d52cb4c0ba6be964e3af/AndroidManifest.xml:11:5-15:19
+MERGED from [:adapter-recyclerview-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/adapter-recyclerview-release.aar/c1dfeb14b244d52cb4c0ba6be964e3af/AndroidManifest.xml:11:5-15:19
+MERGED from [:debug-1.2.0:] /Users/hero/.gradle/caches/transforms-1/files-1.1/debug-1.2.0.aar/65d8a0bb98f78d29fe95068c69190801/AndroidManifest.xml:11:5-47
+MERGED from [:debug-1.2.0:] /Users/hero/.gradle/caches/transforms-1/files-1.1/debug-1.2.0.aar/65d8a0bb98f78d29fe95068c69190801/AndroidManifest.xml:11:5-47
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:14:5-17:19
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:14:5-17:19
+	android:supportsRtl
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:12:9-44
+activity#com.bftv.arpinfo.MainActivity
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:screenOrientation
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:20:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befa65f4bf96210800b80d1a3c91f0c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befa65f4bf96210800b80d1a3c91f0c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/313ff08ad09103528e01b4359b8a1435/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/313ff08ad09103528e01b4359b8a1435/AndroidManifest.xml:20:5-44
+MERGED from [:adapter-recyclerview-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/adapter-recyclerview-release.aar/c1dfeb14b244d52cb4c0ba6be964e3af/AndroidManifest.xml:7:5-9:41
+MERGED from [:adapter-recyclerview-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/adapter-recyclerview-release.aar/c1dfeb14b244d52cb4c0ba6be964e3af/AndroidManifest.xml:7:5-9:41
+MERGED from [:debug-1.2.0:] /Users/hero/.gradle/caches/transforms-1/files-1.1/debug-1.2.0.aar/65d8a0bb98f78d29fe95068c69190801/AndroidManifest.xml:7:5-9:41
+MERGED from [:debug-1.2.0:] /Users/hero/.gradle/caches/transforms-1/files-1.1/debug-1.2.0.aar/65d8a0bb98f78d29fe95068c69190801/AndroidManifest.xml:7:5-9:41
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:7:5-9:41
+MERGED from [:lib.utils-release:] /Users/hero/.gradle/caches/transforms-1/files-1.1/lib.utils-release.aar/b68c5682889f3610124409132b03228f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/162d700c8036cf717b570a001ace3bad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/162d700c8036cf717b570a001ace3bad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e8c78b11165eb87e6d27a2547a3454b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e8c78b11165eb87e6d27a2547a3454b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a70426801fcc3b5349f35cb505f87dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a70426801fcc3b5349f35cb505f87dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9a5c588c43dc515ce430d9b5bd320810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9a5c588c43dc515ce430d9b5bd320810/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610d88bf427133e7920118019b8bec78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610d88bf427133e7920118019b8bec78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bca480d62660d81f7cbd01eb17768c7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hero/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bca480d62660d81f7cbd01eb17768c7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/93d23aaa518032e1593bc034179b13a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/93d23aaa518032e1593bc034179b13a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ba76afe35f3002d4d9a96fd9a0615310/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ba76afe35f3002d4d9a96fd9a0615310/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13cb824b4193630cb23fd92017bf74a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13cb824b4193630cb23fd92017bf74a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec0d9f92d1448ea51222c78e2e14501e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hero/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec0d9f92d1448ea51222c78e2e14501e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hero/Downloads/GitHub/ARPDemo/app/src/main/AndroidManifest.xml
